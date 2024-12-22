@@ -2,6 +2,7 @@
 
 ## Deskripsi Dataset
 Dataset Kaggle: https://www.kaggle.com/datasets/rashmiranu/banking-dataset-classification/data
+
 Dataset ini berkaitan dengan kampanye pemasaran langsung dari sebuah institusi perbankan di Portugal. Kampanye pemasaran dilakukan melalui panggilan telepon, dan sering kali memerlukan lebih dari satu kontak dengan klien untuk mengetahui apakah mereka akan berlangganan deposito berjangka bank ("ya") atau tidak ("tidak").
 
 Bank ini sedang menghadapi penurunan pendapatan karena banyak nasabah yang tidak cukup berinvestasi dalam deposito berjangka. Oleh karena itu, tujuan dari analisis ini adalah untuk mengidentifikasi nasabah yang memiliki kemungkinan lebih tinggi untuk berlangganan deposito berjangka dan memfokuskan upaya pemasaran pada segmen tersebut.
