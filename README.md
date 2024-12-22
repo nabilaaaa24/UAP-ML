@@ -7,17 +7,6 @@ Dataset ini berkaitan dengan kampanye pemasaran langsung dari sebuah institusi p
 
 Bank ini sedang menghadapi penurunan pendapatan karena banyak nasabah yang tidak cukup berinvestasi dalam deposito berjangka. Oleh karena itu, tujuan dari analisis ini adalah untuk mengidentifikasi nasabah yang memiliki kemungkinan lebih tinggi untuk berlangganan deposito berjangka dan memfokuskan upaya pemasaran pada segmen tersebut.
 
-## Informasi Dataset
-Dataset terdiri dari dua file utama:
-
-1. **train.csv**:
-   - Berisi 32.950 data dengan 21 fitur (termasuk fitur target "y").
-   - Data ini diurutkan berdasarkan tanggal (Mei 2008 hingga November 2010).
-
-2. **test.csv**:
-   - Berisi 8.238 data dengan 20 fitur (tanpa fitur target "y").
-   - Data ini sudah melalui tahap praproses.
-
 ### Tujuan
 Tujuan dari klasifikasi ini adalah untuk memprediksi apakah seorang klien akan berlangganan deposito berjangka (variabel "y").
 
